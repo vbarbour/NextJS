@@ -15,31 +15,31 @@ const data = [
     altText: 'Fast Performance',
     title: 'Fast Performance',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Make quick and easy edits to your documents. Our fast performance and user-friendly tools allow you to efficiently revise and improve your writing without any delays.',
   },
   {
     id: 2,
     imgSrc: Partnership,
     altText: 'Partnership deal',
-    title: 'Partnership deal',
+    title: 'paraphrasing',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Get a fresh perspective on your writing with GeneAI\'s paraphrasing services.',
   },
   {
     id: 3,
     imgSrc: Subscription,
     altText: 'Pro Subscription',
-    title: 'Pro Subscription',
+    title: 'Summarization',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Extract the most important information and Get a clear, concise overview of your documents with GeneAI\'s summarization services.',
   },
   {
     id: 4,
     imgSrc: Support,
     altText: 'Customer Support',
-    title: 'Customer Support',
+    title: 'Text Generation',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Transform your content creation process with GeneAI\'s text generation services.',
   },
 ];
 
